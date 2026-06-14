@@ -1,0 +1,2 @@
+# bot-fixmobile
+calcúlame esta
